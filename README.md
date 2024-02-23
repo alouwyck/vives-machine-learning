@@ -3,10 +3,10 @@
 Notebooks for the course "Machine Learning Fundamentals" given by Andy Louwyck during academic year 2023-2024 at the [Vives University of Applied Sciences](https://www.vives.be/en/vives-international) in Kortrijk, Belgium.
 
 
---- Please note that the repository is still under construction! ---
+**Please note that the repository is still under construction!**
 
 
-Most topics were developed using the outstanding textbook "[Grokking Machine Learning]" (https://www.manning.com/books/grokking-machine-learning) by Luis G. Serrano, published in 2021 by Manning:
+Most topics were developed using the outstanding textbook "[Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)" by Luis G. Serrano, published in 2021 by Manning:
 
 - topics 1 and 2: introduction
 - topics 3 and 4: linear and polynomial regression
